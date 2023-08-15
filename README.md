@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm currently learning Data Analytics and Visualization<br>I'm looking to expand my experience in the Data Science field
-
+Data Analyst and Visualization student with a business background, future Business Analyst
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mimi-george/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21872086/m0412?tab=profile) 
