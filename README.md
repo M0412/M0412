@@ -1,6 +1,5 @@
 # 💫 About Me:
-Data Analyst and Visualization student with a business background, future Business Analyst
-
+Certified Scrum Master | Data Analytics and Visualization | Seeking a career in STEM technology | Microsoft Excel/VBA, JavaScript, Python, R, Tableau
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mimi-george/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21872086/m0412?tab=profile) 
 
