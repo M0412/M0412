@@ -1,5 +1,5 @@
 # 💫 About Me:
-Certified Scrum Master | Data Analytics and Visualization | Seeking a career in the Data Science field | Microsoft Excel/VBA, SQL, JavaScript, Python, R, Tableau
+Certified Scrum Master | Data Analytics and Visualization | Seeking a career in the Data Science field | Microsoft Excel/VBA, SQL, JavaScript, Python, Tableau
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mimi-george/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21872086/m0412?tab=profile) 
 
